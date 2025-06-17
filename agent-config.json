@@ -1,0 +1,6 @@
+{
+  "backendUrl": "http://localhost:8087/api/schedules",
+  "panelId": "1",
+  "pollingInterval": 1000,
+  "playerBaseUrl": "http://47.97.211.83:3000/auto-player?scheduleId=7"
+}
